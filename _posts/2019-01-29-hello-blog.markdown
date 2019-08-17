@@ -83,7 +83,7 @@ hexo 博客搭建：https://www.jianshu.com/p/1c888a6b8297?utm_source=oschina-ap
 
 ​     如果不想花太多时间精力，**可以不用看上面写的**，采用最简单的方式就好。推荐大家看下这篇文章，教我们如果最简单的搭建博客。
 
-[小呼哥最简易的搭建博客方法](https://wade410.github.io/#blog )
+[小呼哥最简易的搭建博客方法](https://blog.csdn.net/hu2535357585/article/details/95253749 )
 
 ​    简单来说就是把别人的博客主题fork下来，改改配置文件，简单实用。然后用Github desktop上传博客。同时上点干货， 推荐一些不错的主题https://hexo.io/themes/
 
@@ -110,7 +110,7 @@ tags: 生活
 
 十分感谢：
 
-[小呼哥最简易的搭建博客方法](https://wade410.github.io/#blog   )
+[小呼哥最简易的搭建博客方法](https://blog.csdn.net/hu2535357585/article/details/95253749  )
 
 Hux大佬的模板哈
 
