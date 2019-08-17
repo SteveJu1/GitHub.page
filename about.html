@@ -1,0 +1,75 @@
+---
+layout: page
+title: "About"
+description: "做自己喜欢做的事"
+header-img: "img/about-bg.jpg"
+---
+
+<div class="post-container">
+    <blockquote>
+        未来很美好，值得我们为之奋斗   
+    </blockquote>
+	
+	<h3 id="关于我">关于我</h3>
+    <blockquote>
+	<p>&nbsp&nbsp&nbsp&nbsp&nbsp喜欢探索体验各种新的事物，被数学和物理的魅力所折服，
+	可惜没这方面的天赋( >﹏<。),平时写写代码，研究下前沿的技术，偶尔看看历史，经济学的书籍。
+	如果你也有类似的经历或想法，请和我探讨下哈~~ ，想"搞事”的也可以叫上我！</p>
+    </blockquote>
+    <h3 id="兴趣方向">兴趣方向</h3>
+    <blockquote>
+    <p>机器学习技术研究。</p>
+    </blockquote>
+    <h3 id="参与社区">参与社区</h3>
+    <blockquote>
+    <p>简书博客: <a href="https://www.jianshu.com/u/7b52bb01fb04" target="_blank" rel="noopener">https://www.jianshu.com/u/7b52bb01fb04</a></p>
+    <p>Github: <a href="https://github.com/lukkyy" target="_blank" rel="noopener">https://github.com/lukkyy</a></p>
+    <p>kaggle社区: <a href="https://www.kaggle.com/lukkyy" target="_blank" rel="noopener">https://www.kaggle.com/lukkyy</a></p>
+    </blockquote>
+	
+    <h3 id="联系我">联系我</h3>
+    <blockquote>
+    <p> Email: <a href="mailto:2584641446@qq.com" target="_blank" rel="noopener">2584641446@qq.com</a></p>
+	<p> WeChat: <a>Pualukkyy</a></p>
+    </blockquote>
+	
+
+</div>
+
+
+
+<!-- 多说评论框 start -->
+
+<!-- 多说评论框 end -->
+
+<!-- Duoshuo hacking -->
+
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+
+<!-- 多说公共JS代码 end -->
+
+
+{% if site.disqus_username %}
+<!-- disqus 评论框 start -->
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+
+    </div>
+</div>
+<!-- disqus 评论框 end -->
+
+<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = "{{site.disqus_username}}";
+    var disqus_identifier = "{{site.disqus_username}}/{{page.url}}";
+    var disqus_url = "{{site.url}}{{page.url}}";
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
