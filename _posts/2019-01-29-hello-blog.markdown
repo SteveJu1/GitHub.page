@@ -3,7 +3,7 @@ layout:     post
 title:      "Github Pages搭建个人博客 "
 date:       2016-11-29 
 header-img: "img/post-bg-1.png"
-tags: 生活
+tags: Blog
 ---
 
 
