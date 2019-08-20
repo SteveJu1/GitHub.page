@@ -1,3 +1,4 @@
+![博客的效果：](img/io.png)
 #### Environment
 
 如果你安装了jekyll，那你只需要在命令行输入`jekyll serve`就能在本地浏览器预览主题。你还可以输入`jekyll serve --watch`，这样可以边修改边自动运行修改后的文件。
